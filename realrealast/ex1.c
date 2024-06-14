@@ -19,5 +19,7 @@ int main(void) {
 	printf("i : %d\n", i);
 	// Ãâ·Â => i : 50
 
+	exam2();
+
 	return 0;
 }
