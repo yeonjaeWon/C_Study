@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ex1.c" />
+    <ClCompile Include="ex10.c" />
     <ClCompile Include="ex2.c" />
     <ClCompile Include="ex3.c" />
     <ClCompile Include="ex4.c" />

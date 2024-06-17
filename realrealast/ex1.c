@@ -30,7 +30,8 @@ int main(void) {
 	//exam6();
 	//exam7();
 	//exam8();
-	exam9();
+	//exam9();
+	exam10();
 
 	return 0;
 }
