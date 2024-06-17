@@ -21,5 +21,7 @@ int main(void) {
 
 	exam2();
 
+	exam3();
+
 	return 0;
 }
