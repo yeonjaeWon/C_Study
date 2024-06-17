@@ -29,7 +29,8 @@ int main(void) {
 	//exam5();
 	//exam6();
 	//exam7();
-	exam8();
+	//exam8();
+	exam9();
 
 	return 0;
 }
