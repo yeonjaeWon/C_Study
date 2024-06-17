@@ -7,6 +7,7 @@
 
 int main(void) {
 
+	//exam1()
 	int i = 30;
 
 	// 수정가능지역 시작
@@ -19,9 +20,12 @@ int main(void) {
 	printf("i : %d\n", i);
 	// 출력 => i : 50
 
-	exam2();
 
-	exam3();
+	//아래 각 문제 실행 시 주석해제
+
+	//exam2();
+	//exam3();
+	exam4();
 
 	return 0;
 }
