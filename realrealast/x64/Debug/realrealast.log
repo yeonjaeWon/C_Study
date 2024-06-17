@@ -1,3 +1,2 @@
-﻿  ex4.c
-D:\realast\realrealast\ex4.c(40,8): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+﻿  ex5.c
   realrealast.vcxproj -> D:\realast\x64\Debug\realrealast.exe
