@@ -27,7 +27,8 @@ int main(void) {
 	//exam3();
 	//exam4();
 	//exam5();
-	exam6();
+	//exam6();
+	exam7();
 
 	return 0;
 }
