@@ -1,3 +1,2 @@
-﻿  ex1.c
-D:\realast\realrealast\ex1.c(37,2): warning C4013: 'exam13'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  ex14.c
   realrealast.vcxproj -> D:\realast\x64\Debug\realrealast.exe
