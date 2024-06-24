@@ -1,2 +1,5 @@
-﻿  ex17.c
+﻿  ex1.c
+D:\realast\realrealast\ex1.c(42,2): warning C4013: 'exam18'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex18.c
+  코드를 생성하고 있습니다...
   realrealast.vcxproj -> D:\realast\x64\Debug\realrealast.exe
