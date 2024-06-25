@@ -40,7 +40,8 @@ int main(void) {
 	//exam16();
 	//exam17();
 	//exam18();
-	exam19();
+	//exam19();
+	exam20();
 
 	return 0;
 }
