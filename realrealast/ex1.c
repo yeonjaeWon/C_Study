@@ -41,7 +41,8 @@ int main(void) {
 	//exam17();
 	//exam18();
 	//exam19();
-	exam20();
+	//exam20();
+	exam21();
 
 	return 0;
 }
